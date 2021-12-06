@@ -1,0 +1,22 @@
+{
+ "name": "BWBNFT",
+ "description": "BWB Series NFT",
+ "image": "https://i.imgur.com/a6Ts1Ok.png",
+ "attributes": [
+   {
+     "Traits_type":"palette",
+     "name": "color",
+     "Value": "original"
+   },
+   {
+     "Traits_type": "scale",
+     "name": "size",
+     "value": "medium"
+   },
+   {
+     "Traits_type": "string",
+     "name": "tag",
+     "value": ""
+   }
+ ]
+}
